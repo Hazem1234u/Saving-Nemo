@@ -18,9 +18,11 @@ S  A  V I N G     N  E  M  O
 
 -------------------------------------------------
 
-Main Languages used
+Main Tools used
 
 
-1.Python
+1.Python 
 
-2.Kotlin
+2.Kotlin on Android Studio
+
+3.Data set : Garbage classification  from kaggle
