@@ -1,8 +1,7 @@
 TITLE
 
 
-S  A  V I N G 
-             N  E  M  O
+S  A  V I N G     N  E  M  O
 ----------------------
 
 # Saving Nemo is an Object Detection module for a mobile app for Nasa Space Apps Cairo (LEVERAGING AI/ML FOR PLASTIC MARINE DEBRIS CHALLENGE).
