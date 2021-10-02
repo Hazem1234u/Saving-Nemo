@@ -1,6 +1,3 @@
-TITLE
-
-
 S  A  V I N G     N  E  M  O
 ----------------------
 
@@ -9,20 +6,23 @@ S  A  V I N G     N  E  M  O
 
 # The idea is that the AI module detects the debris and classifies them according to specfic classes.
 
-#The project includes :
+#The Github repo. includes 2 folder:
 
-1.DebrisDetection_AI_Model folder that has all the files regarding the AI model.
+1.DebrisDetection_AI_Model :
+Language : Python ( Keras & Tensorflow )
+Dataset : Garbage classification 
+Source : kaggle (https://www.kaggle.com/asdasdasasdas/garbage-classification).
 
-2.DebrisDetection_GUI folder that has all the files required to run the moble app.
+Features: Classify sea debris to differnt materials : Plastic , Cardboard, Paper , Trash and Metal.
 
+2.DebrisDetection_GUI
+Android Mobile application 
+Language : Kotlin (Used on Android Studio)
 
+Features:
+
+1.Tracking a detailed geo-spatial map for sea debris to participate in cleaning seas . 
+(time-stamp , material , sea depth , cleaning priority) are provided for each pinpoint.
+
+2.Adding debris using mobile phone camera which scans the object to automatically classify material and add it to the map. ( in the future plan)
 -------------------------------------------------
-
-Main Tools used
-
-
-1.Python 
-
-2.Kotlin on Android Studio
-
-3.Data set : Garbage classification  from kaggle
