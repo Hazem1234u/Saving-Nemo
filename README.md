@@ -26,7 +26,7 @@ Features:
 
 2.Adding debris using mobile phone camera which scans the object to automatically classify material and add it to the map. ( in the future plan)
 -----------------------------
-3. Overview 30sec video https://www.canva.com/design/DAErtf-69zo/kgmQahGfiqrg5Jv44W_rRA/watch?utm_content=DAErtf-69zo&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink
+3. Overview 30sec video https://www.canva.com/design/DAErtf-69zo/kgmQahGfiqrg5Jv44W_rRA/watch?utm_content=DAErtf-69zo&utm_campaign=designshare&utm_medium=link&utm_source=homepage_design_menu
 4. slides included in SavingNemo.exe
 
 
