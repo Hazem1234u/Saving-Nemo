@@ -20,12 +20,15 @@ Android Mobile application
 Language : Kotlin (Used on Android Studio)
 
 Features:
-
+-----------------------------
 1.Tracking a detailed geo-spatial map for sea debris to participate in cleaning seas . 
 (time-stamp , material , sea depth , cleaning priority) are provided for each pinpoint.
 
 2.Adding debris using mobile phone camera which scans the object to automatically classify material and add it to the map. ( in the future plan)
-
+-----------------------------
 3. Overview 30sec video https://www.canva.com/design/DAErtf-69zo/kgmQahGfiqrg5Jv44W_rRA/watch?utm_content=DAErtf-69zo&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink
+4. slides included in SavingNemo.exe
+
+
 
 -------------------------------------------------
